@@ -24,9 +24,9 @@
         "max_description_length": 500
     },
     "discord_client": {
-        "id": "",
-        "secret": "",
-        "token": "",
+        "id": "741964890691862528",
+        "secret": "https://discord.gg/kqVVfS8arV",
+        "token": "OTU0MzI0OTI4MDg4Mzc1MzE2.YjReWQ.0QPJJIVP65NIFB6pn8OFaU_3ijk",
         "prefix": ""
     },
     "web": {
